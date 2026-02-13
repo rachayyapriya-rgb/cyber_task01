@@ -1,0 +1,13 @@
+requirements.txt
+# No external dependencies required
+Why?
+
+Your code only uses:
+
+Built-in Python functions like ord(), chr()
+
+Basic string methods
+
+Loops and conditionals
+
+These are part of the Python Standard Library, so no installation is needed.
